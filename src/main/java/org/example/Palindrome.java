@@ -11,8 +11,7 @@ public class Palindrome {
         while (i < j) {
             if (s.charAt(i) != s.charAt(j)) {
                 return false;
-            } j
-                    ++;
+            } j++;
             i--;
         }
         return true;

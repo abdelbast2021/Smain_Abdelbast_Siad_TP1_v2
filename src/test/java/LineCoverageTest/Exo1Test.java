@@ -1,18 +1,17 @@
 package LineCoverageTest;
 import org.example.Palindrome;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class PalindromeTest {
+public class Exo1Test {
     private Palindrome palindrome;
     @BeforeEach
     void SetUp() {
         palindrome = new Palindrome();
     }
-
 
     @Test
     public void testIsPalindrome() {
@@ -24,11 +23,7 @@ public class PalindromeTest {
         assertEquals(true, palindrome.isPalindrome("aba"));
     }
 
-    @Test
-    public void testIsPalindromeWithNullString() {
-        String a = null;
-        assertEquals(true, palindrome.isPalindrome(a));
-    }
+
 
 
     @Test

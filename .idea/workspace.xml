@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dba463a-a5dc-4f30-8d93-8849bc148519" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" afterDir="false" />
+    <list default="true" id="0dba463a-a5dc-4f30-8d93-8849bc148519" name="Changes" comment="Exercice 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo1Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +35,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/My File/Khbish/2023 S2/Assurance de Qualité Logiciel/TP/TP1/MyTP1/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/My File/Khbish/2023 S2/Assurance de Qualité Logiciel/TP/TP1/MyTP1",
+    "onboarding.tips.debug.path": "C:/My File/Khbish/2023 S2/Assurance de Qualité Logiciel/TP/TP1/MyTP1/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="PalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="JUnit.Exo2Test.testIsAnagram_True">
+    <configuration name="Exo1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTP1" />
+      <extension name="coverage" sample_coverage="false" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo1Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTP1" />
+      <extension name="coverage" sample_coverage="false" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo2Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo2Test.testIsAnagram_EmptyStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyTP1" />
       <extension name="coverage">
         <pattern>
@@ -57,15 +89,59 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="LineCoverageTest" />
-      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.PalindromeTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo2Test" />
+      <option name="METHOD_NAME" value="testIsAnagram_EmptyStrings" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exo2Test.testIsAnagram_False" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo2Test" />
+      <option name="METHOD_NAME" value="testIsAnagram_False" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo2Test.testIsAnagram_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo2Test" />
+      <option name="METHOD_NAME" value="testIsAnagram_True" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Exo1Test" />
+      <item itemvalue="JUnit.Exo2Test" />
+      <item itemvalue="JUnit.Exo2Test.testIsAnagram_EmptyStrings" />
+      <item itemvalue="JUnit.Exo2Test.testIsAnagram_False" />
+      <item itemvalue="JUnit.Exo2Test.testIsAnagram_True" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PalindromeTest" />
+        <item itemvalue="JUnit.Exo2Test.testIsAnagram_True" />
+        <item itemvalue="JUnit.Exo2Test.testIsAnagram_False" />
+        <item itemvalue="JUnit.Exo2Test.testIsAnagram_EmptyStrings" />
+        <item itemvalue="JUnit.Exo2Test" />
+        <item itemvalue="JUnit.Exo1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -78,6 +154,36 @@
       <option name="presentableId" value="Default" />
       <updated>1709022648339</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercice 1">
+      <option name="closed" value="true" />
+      <created>1709023172442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709023172442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercice 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyTP1$PalindromeTest.ic" NAME="PalindromeTest Coverage Results" MODIFIED="1709024062820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo2Test.ic" NAME="Exo2Test Coverage Results" MODIFIED="1709025346454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$PalindromeTest.exec" NAME="PalindromeTest Coverage Results" MODIFIED="1709023888993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo2Test_testIsAnagram_EmptyStrings.ic" NAME="Exo2Test.testIsAnagram_EmptyStrings Coverage Results" MODIFIED="1709025294851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo2Test_testIsAnagram_False.ic" NAME="Exo2Test.testIsAnagram_False Coverage Results" MODIFIED="1709025273665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
   </component>
 </project>
