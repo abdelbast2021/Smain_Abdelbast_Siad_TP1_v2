@@ -4,30 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dba463a-a5dc-4f30-8d93-8849bc148519" name="Changes" comment="Exercice 2">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RomanNumeral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo6Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo6Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0dba463a-a5dc-4f30-8d93-8849bc148519" name="Changes" comment="Exercice 3-4-5-6 (line coverge)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LineCoverageTest/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LineCoverageTest/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LineCoverageTest/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LineCoverageTest/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LineCoverageTest/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LineCoverageTest/RomanNumeral.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BranchCoverageTest/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BranchCoverageTest/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BranchCoverageTest/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BranchCoverageTest/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BranchCoverageTest/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RomanNumeral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BranchCoverageTest/RomanNumeral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo6Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo6Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,37 +53,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/My File/Khbish/2023 S2/Assurance de Qualité Logiciel/TP/TP1/MyTP1&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/My File/Khbish/2023 S2/Assurance de Qualité Logiciel/TP/TP1/MyTP1/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/My File/Khbish/2023 S2/Assurance de Qualité Logiciel/TP/TP1/MyTP1/src/main/java/LineCoverageTest",
+    "onboarding.tips.debug.path": "C:/My File/Khbish/2023 S2/Assurance de Qualité Logiciel/TP/TP1/MyTP1/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.Exo2Test2">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My File\Khbish\2023 S2\Assurance de Qualité Logiciel\TP\TP1\MyTP1\src\main\java\LineCoverageTest" />
+      <recent name="C:\My File\Khbish\2023 S2\Assurance de Qualité Logiciel\TP\TP1\MyTP1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Exo6Test">
     <configuration name="BranchCoverageTest in MyTP1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <module name="MyTP1" />
-      <extension name="coverage" sample_coverage="false" track_test_folders="true">
-        <pattern>
-          <option name="PATTERN" value="BranchCoverageTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BranchCoverageTest" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BranchCoverageTest in MyTP1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyTP1" />
       <extension name="coverage" sample_coverage="false" track_test_folders="true">
         <pattern>
@@ -147,6 +137,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exo2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTP1" />
+      <extension name="coverage" sample_coverage="false" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="BranchCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BranchCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="BranchCoverageTest.Exo2Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exo2Test2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="MyTP1" />
       <extension name="coverage" sample_coverage="false" track_test_folders="true">
@@ -194,12 +200,12 @@
       <module name="MyTP1" />
       <extension name="coverage" sample_coverage="false" track_test_folders="true">
         <pattern>
-          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="PATTERN" value="BranchCoverageTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LineCoverageTest" />
-      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo3Test" />
+      <option name="PACKAGE_NAME" value="BranchCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="BranchCoverageTest.Exo3Test" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
@@ -208,23 +214,39 @@
     </configuration>
     <configuration name="Exo4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyTP1" />
-      <extension name="coverage" sample_coverage="false" track_test_folders="true">
+      <extension name="coverage" sample_coverage="false">
         <pattern>
-          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="PATTERN" value="BranchCoverageTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LineCoverageTest" />
-      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo4Test" />
+      <option name="PACKAGE_NAME" value="BranchCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="BranchCoverageTest.Exo4Test" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exo6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exo5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyTP1" />
-      <extension name="coverage" sample_coverage="false" track_test_folders="true">
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="BranchCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BranchCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="BranchCoverageTest.Exo5Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo6Test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="MyTP1" />
+      <extension name="coverage" sample_coverage="false">
         <pattern>
           <option name="PATTERN" value="BranchCoverageTest.*" />
           <option name="ENABLED" value="true" />
@@ -234,42 +256,26 @@
       <option name="MAIN_CLASS_NAME" value="BranchCoverageTest.Exo6Test" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exo6Test.testFizz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyTP1" />
-      <extension name="coverage" sample_coverage="false" track_test_folders="true">
-        <pattern>
-          <option name="PATTERN" value="BranchCoverageTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BranchCoverageTest" />
-      <option name="MAIN_CLASS_NAME" value="BranchCoverageTest.Exo6Test" />
-      <option name="METHOD_NAME" value="testFizz" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.Exo6Test" />
       <item itemvalue="JUnit.Exo2Test2" />
       <item itemvalue="JUnit.Exo1Test" />
-      <item itemvalue="JUnit.BranchCoverageTest in MyTP1" />
       <item itemvalue="JUnit.Exo3Test" />
-      <item itemvalue="JUnit.Exo6Test" />
-      <item itemvalue="JUnit.Exo6Test.testFizz" />
+      <item itemvalue="JUnit.Exo5Test (1)" />
+      <item itemvalue="JUnit.Exo2Test" />
       <item itemvalue="JUnit.Exo4Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Exo6Test" />
-        <item itemvalue="JUnit.BranchCoverageTest in MyTP1" />
-        <item itemvalue="JUnit.Exo6Test.testFizz" />
+        <item itemvalue="JUnit.Exo5Test (1)" />
         <item itemvalue="JUnit.Exo4Test" />
         <item itemvalue="JUnit.Exo3Test" />
+        <item itemvalue="JUnit.Exo2Test" />
+        <item itemvalue="JUnit.Exo6Test" />
       </list>
     </recent_temporary>
   </component>
@@ -298,20 +304,40 @@
       <option name="project" value="LOCAL" />
       <updated>1709026310111</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercice 3-4-5-6 (line coverge)">
+      <option name="closed" value="true" />
+      <created>1710869303679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710869303679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercice 1" />
     <MESSAGE value="Exercice 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 2" />
+    <MESSAGE value="Exercice 3-4-5-6 (line coverge)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 3-4-5-6 (line coverge)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo4Test.java</url>
-          <line>16</line>
+          <line>11</line>
           <properties class="LineCoverageTest.Exo4Test" method="Test">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -320,41 +346,44 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo4Test.java</url>
-          <line>17</line>
+          <line>12</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MyTP1$Exo4Test.ic" NAME="Exo4Test Coverage Results" MODIFIED="1710868515582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/MyTP1$Exo4Test.ic" NAME="Exo4Test Coverage Results" MODIFIED="1710885582613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LineCoverageTest.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo2Test.ic" NAME="Exo2Test Coverage Results" MODIFIED="1710695598952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/MyTP1$Exo4Test_Test.ic" NAME="Exo4Test.Test Coverage Results" MODIFIED="1710885565145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo6Test.ic" NAME="Exo6Test Coverage Results" MODIFIED="1710885934464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo2Test.ic" NAME="Exo2Test Coverage Results" MODIFIED="1710886384256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>BranchCoverageTest.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo6Test.ic" NAME="Exo6Test Coverage Results" MODIFIED="1710868927419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/MyTP1$Exo3Test.ic" NAME="Exo3Test Coverage Results" MODIFIED="1710885265160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo5Test_testToRoman.ic" NAME="Exo5Test.testToRoman Coverage Results" MODIFIED="1710885788227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo5Test.ic" NAME="Exo5Test Coverage Results" MODIFIED="1710885847054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo2Test2.ic" NAME="Exo2Test2 Coverage Results" MODIFIED="1710884965128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo1Test.ic" NAME="Exo1Test Coverage Results" MODIFIED="1710886187499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>BranchCoverageTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo5Test_testToRoman.ic" NAME="Exo5Test.testToRoman Coverage Results" MODIFIED="1710866646470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>LineCoverageTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo5Test.ic" NAME="Exo5Test Coverage Results" MODIFIED="1710866660033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>LineCoverageTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo3Test.ic" NAME="Exo3Test Coverage Results" MODIFIED="1710868494446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>LineCoverageTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo1Test.ic" NAME="Exo1Test Coverage Results" MODIFIED="1710868622567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>BranchCoverageTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo2Test2.ic" NAME="Exo2Test2 Coverage Results" MODIFIED="1710869170033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
-      <FILTER>LineCoverageTest.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/MyTP1$Exo2Test.exec" NAME="Exo2Test Coverage Results" MODIFIED="1709029788901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>BranchCoverageTest.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo1Test__1_.ic" NAME="Exo1Test (1) Coverage Results" MODIFIED="1709030264306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/MyTP1$Exo1Test__1_.ic" NAME="Exo1Test (1) Coverage Results" MODIFIED="1710874494705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LineCoverageTest.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/MyTP1$Exo6Test_testFizz.ic" NAME="Exo6Test.testFizz Coverage Results" MODIFIED="1710868726499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
@@ -375,8 +404,11 @@
     <SUITE FILE_PATH="coverage/MyTP1$Exo2Test_testIsAnagram_False.ic" NAME="Exo2Test.testIsAnagram_False Coverage Results" MODIFIED="1709025273665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LineCoverageTest.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/MyTP1$Exo1Test.exec" NAME="Exo1Test Coverage Results" MODIFIED="1710867850773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+    <SUITE FILE_PATH="coverage/MyTP1$Exo1Test.exec" NAME="Exo1Test Coverage Results" MODIFIED="1710874768187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
       <FILTER>BranchCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyTP1$Exo5Test_testToRomanForOutOfRangeInput.ic" NAME="Exo5Test.testToRomanForOutOfRangeInput Coverage Results" MODIFIED="1710885832373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
     </SUITE>
   </component>
 </project>

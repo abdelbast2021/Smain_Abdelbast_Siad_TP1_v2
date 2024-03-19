@@ -1,7 +1,6 @@
 package LineCoverageTest;
 
-import org.example.FizzBuzz;
-import org.junit.jupiter.api.BeforeEach;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -36,6 +35,13 @@ public class Exo6Test {
         assertEquals("2", FizzBuzz.fizzBuzz(2));
         assertEquals("4", FizzBuzz.fizzBuzz(4));
         assertEquals("7", FizzBuzz.fizzBuzz(7));
+    }
+
+    @Test
+    public void testEceptions() {
+        assertThrows(IllegalArgumentException.class, () -> {
+            assertEquals("7", FizzBuzz.fizzBuzz(-1));// Should throw IllegalArgumentException
+        });
     }
 
 

@@ -1,4 +1,4 @@
-package org.example;
+package BranchCoverageTest;
 
 public class FizzBuzz {
     public static String fizzBuzz(int n) {

@@ -1,4 +1,4 @@
-package org.example;
+package LineCoverageTest;
 
 public class QuadraticEquation {
     public static double[] solve(double a, double b, double c) {

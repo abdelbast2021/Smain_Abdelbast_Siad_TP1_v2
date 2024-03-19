@@ -1,7 +1,6 @@
 package BranchCoverageTest;
+import BranchCoverageTest.Palindrome;
 
-import org.example.Anagram;
-import org.example.Palindrome;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -9,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class Exo1Test {
-    public Palindrome palindrome;
+    private Palindrome palindrome;
     @BeforeEach
     void SetUp() {
         palindrome = new Palindrome();

@@ -1,14 +1,9 @@
 package LineCoverageTest;
 
-import org.example.Anagram;
-import org.example.BinarySearch;
-import org.example.Palindrome;
-import org.example.QuadraticEquation;
-import org.junit.jupiter.api.BeforeEach;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 public class Exo4Test {
@@ -23,4 +18,21 @@ public class Exo4Test {
         }
     }
 
+    @Test
+    public void testSolveWithZeroA() {
+        assertThrows(IllegalArgumentException.class, () -> {
+            QuadraticEquation.solve(0, 1, 1); // Should throw IllegalArgumentException
+        });
+    }
+    @Test
+    public void testSolveWhenDeltaIsNegative() {
+        double[] result = QuadraticEquation.solve(1, 1, 1);
+        assertNull(result);
+    }
+
+    @Test
+    public void testSolveWhenDeltaIsPositive() {
+        double[] result = QuadraticEquation.solve(1, -3, 2);
+        assertArrayEquals(new double[]{2.0, 1.0}, result, 0.0001);
+    }
 }

@@ -1,6 +1,4 @@
 package LineCoverageTest;
-import org.example.Anagram;
-import org.example.Palindrome;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

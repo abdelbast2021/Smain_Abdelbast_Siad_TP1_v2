@@ -1,13 +1,11 @@
 package LineCoverageTest;
 
-import org.example.Anagram;
-import org.example.BinarySearch;
-import org.example.Palindrome;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
 public class Exo3Test {
@@ -25,4 +23,17 @@ public class Exo3Test {
         assertEquals(3, BinarySearch.binarySearch_corected(tab, 3)); // Test BinarySearch method with tab array
     }
 
+
+    @Test
+    public void testBinarySearchWithNullArray() {
+        Integer[] array = null;
+        assertThrows(NullPointerException.class, () -> {
+            BinarySearch.binarySearch_corected(array, 5);
+        });
+    }
+
+    @Test
+    void NotExictingTest (){
+        assertEquals(-1, BinarySearch.binarySearch_corected(tab, 200));
+    }
 }
