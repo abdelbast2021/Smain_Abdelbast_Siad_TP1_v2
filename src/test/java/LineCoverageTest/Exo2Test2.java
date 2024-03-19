@@ -1,5 +1,7 @@
 package LineCoverageTest;
 
+
+
 import org.example.Anagram;
 import org.example.Palindrome;
 import org.junit.jupiter.api.BeforeEach;
@@ -8,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-public class Exo2Test {
+public class Exo2Test2 {
 
 
     @Test
@@ -37,3 +39,4 @@ public class Exo2Test {
 
 
 }
+
